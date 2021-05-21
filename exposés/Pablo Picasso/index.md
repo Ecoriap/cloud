@@ -8,9 +8,11 @@ Pablo Picasso est l'un des peintres les plus importants du XXe siècle. Il a ré
 Dessinateur virtuose, initiateur du cubisme, peintre surréaliste, sculpteur… Pablo Picasso a profondément bouleversé l’art du XXe siècle. Sa grandeur s’explique par sa capacité infinie à innover, à devancer ses contemporains tout en dialoguant avec la peinture des maîtres anciens. L’artiste a constamment renouvelé le rapport de l’art à la réalité, à l’histoire. Les Demoiselles d’Avignon (1907) et Guernica (1937) comptent parmi les œuvres les plus importantes du siècle. Picasso incarne aussi un mythe : l’artiste bohème, le démiurge. Devenu une star de son vivant, mort à l’âge de 91 ans, Picasso fut auréolé d’une gloire internationale. Pour toutes ces raisons, il est communément qualifié de génie.
 
 **Les Demoiselles d’Avignon:**
+</br>
 ![Les Demoiselles d’Avignon](1.jpeg)
 
 **Guernical:**
+</br>
 ![Guernica](2.jpeg)
 
 
