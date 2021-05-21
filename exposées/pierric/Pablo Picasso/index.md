@@ -1,4 +1,4 @@
-# Pablo Picasso
+# Pablo Picasso 👍
 
 
 Pablo Picasso (Pablo Ruiz Picasso, Picasso étant le nom de sa mère) est un artiste peintre et sculpteur né à Málaga en Espagne en 1881. Il a vécu en France jusqu'à sa mort le 8 avril 1973.
