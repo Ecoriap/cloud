@@ -27,7 +27,7 @@ Schiele connaît une reconnaissance tardive au nouveau palais de la Sécession, 
 
 **Tableau de marine de Egon Schiele:**
 </br>
-![Tableau de marine de Egon Schiele](Gustav.jpg)
+![Tableau de marine de Egon Schiele](marines.jpg)
 
 **Tableau d'autoportrait de Egon Schiele:**
 </br>
